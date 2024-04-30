@@ -273,3 +273,4 @@ modules.xml
 backend/.idea*
 backend/venv
 .vscode
+.env
