@@ -22,12 +22,12 @@ POSTGRES_DB=news
 > step 1:
 - **clone the project**
 ```shell
-git clone https://github.com/khasanjon-dev/nginx-load-balancer-round-robin.git
+git clone https://github.com/khasanjon-dev/nginx-load-balancer-least-conn.git
 ```
 > step 2
 - **cd project file**
 ```shell
-cd nginx-load-balancer-round-robin
+cd nginx-load-balancer-least-conn
 ```
 > step 3
 ```shell
