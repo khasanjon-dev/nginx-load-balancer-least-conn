@@ -5,15 +5,17 @@
 DEBUG=
 SECRET_KEY=django-insecure
 DJANGO_SETTINGS_MODULE=root.settings
+
 # DATABASE
 DB_HOST=db
 DB_NAME=news
 DB_USERNAME=postgres
-DB_PASSWORD=helloworld
+DB_PASSWORD=solve_the_problem
 DB_PORT=5432
+
 # POSTGRES
 POSTGRES_USER=postgres
-POSTGRES_PASSWORD=helloworld
+POSTGRES_PASSWORD=solve_the_problem
 POSTGRES_DB=news
 ```
 
